@@ -1,8 +1,8 @@
 {
   "name": "easy",
   "identifier": "com.kirhsrdgsg.easy",
-  "subtitle": "AltStore PAL",
-  "description": "My custom AltStore source",
+  "subtitle": "AltStore PAL Source",
+  "description": "My custom AltStore PAL source",
   "iconURL": "https://i.imgur.com/v8tX8tA.png",
   "website": "https://github.com",
   "schemaVersion": 1,
@@ -14,7 +14,7 @@
       "subtitle": "PS2 Emulator",
       "localizedDescription": "PlayStation 2 emulator for iOS devices.",
       "iconURL": "https://ios.armsx2.net/icon.png",
-      "tintColor": "007AFF",
+      "tintColor": "#007AFF",
       "category": "games",
       "versions": [
         {
@@ -33,7 +33,7 @@
       "subtitle": "On-Device JIT Enabler",
       "localizedDescription": "Enable JIT on-device without needing a PC.",
       "iconURL": "https://stikdebug.xyz/icon.png",
-      "tintColor": "6C5CE7",
+      "tintColor": "#6C5CE7",
       "category": "utilities",
       "versions": [
         {
