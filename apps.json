@@ -1,0 +1,47 @@
+{
+  "name": "easy",
+  "subtitle": "Altstore PAL",
+  "description": "مصدر تطبيقات AltStore الخاص بي",
+  "iconURL": "https://i.imgur.com/v8tX8tA.png",
+  "website": "https://github.com",
+  "apps": [
+    {
+      "name": "ARMSX2",
+      "bundleIdentifier": "net.armsx2.ios",
+      "developerName": "ARMSX2 Team",
+      "subtitle": "PS2 Emulator",
+      "localizedDescription": "محاكي ألعاب بلايستيشن 2 لجهاز الآيباد.",
+      "iconURL": "https://ios.armsx2.net/icon.png",
+      "tintColor": "#007AFF",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-08-28T00:00:00Z",
+          "downloadURL": "https://ios.armsx2.net/app.ipa",
+          "size": 50000000,
+          "localizedDescription": "الإصدار الأول"
+        }
+      ]
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stikdebug.app",
+      "developerName": "StikDebug Team",
+      "subtitle": "On-Device JIT Enabler",
+      "localizedDescription": "تطبيق لتفعيل JIT للمحاكيات مباشرة من الآيباد.",
+      "iconURL": "https://stikdebug.xyz/icon.png",
+      "tintColor": "#6C5CE7",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "3.1.2",
+          "date": "2026-08-28T00:00:00Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/latest/download/StikDebug.ipa",
+          "size": 15000000,
+          "localizedDescription": "إصدار StikDebug لتفعيل JIT"
+        }
+      ]
+    }
+  ]
+}
